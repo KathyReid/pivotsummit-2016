@@ -1,12 +1,49 @@
 /*
-  color palette - ColourLovers.com 'Technics' by adriankrasniqi93
-  - mustard - #c2954b
-  - salmon - #b0624e
-  - brown - #55362e
-  - hazel - #cdb68f
-  - light hazel - #f7ebd9
-  - graphite - #5d4f48
+  color palette - from Pivot Summit website. Props to @codeacious
+  - mid blue - #0065F9
+  - mid point 1 - #008AEB
+  - mid point 2 - #00AFDE
+  - mid point 3 - #00D3D0
+  - aqua - #00F8C2
+  - white - #FFF
 */
+
+
+/*
+  Set up font faces locally
+*/
+
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins-Bold.ttf');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins-Light.ttf');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins-Medium.ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins-SemiBold.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
 
 
 /*
@@ -68,26 +105,25 @@ table {
     want to leave anybody behind.
 */
 body {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Poppins', sans-serif;
     min-height: 740px;
-    background: #cdb68f;
+    background: #fff;
     line-height: 1.2;
 }
 
 header {
-  background: #5d4f48;
+  background: #0065F9;
   padding: 1%;
   position: relative;
   top: 0;
   left: 0;
   z-index: 1;
 
-  border-bottom: 3px solid #b0624e;
+  border-bottom: 3px solid #00F8C2;
 
-  color: #cdb68f;
-  font-size: 170%;
-  text-transform: uppercase;
-  font-weight: bold;
+  color: #fff;
+  font-size: 150%;
+  font-weight: 100;
   letter-spacing: 0.5px;
 }
 
@@ -125,7 +161,7 @@ q::after {
 }
 
 q::before, q::after {
-  color: #c2954b;
+  color: ##008AEB;
   font-weight:bolder;
   font-size: 180%;
   opacity: 0.4;
@@ -724,12 +760,11 @@ a:focus {
 
 h2 {
   font-size: 300%;
-  text-transform: lowercase;
-  color: #5d4f48;
-  text-shadow: 2px 2px white;
-  border-bottom: 1px solid #b0624e;
+  font-weight: 500;
+  color: #0065F9;
+  text-shadow: 2px 2px black;
   padding: 1px;
-  margin: 30px 0 0 0;
+  background-color: rgba(0, 248, 194, 0.2);
 }
 
 h3 {
@@ -751,6 +786,14 @@ h1 {
   display: inline;
   background-color: #55362e;
   opacity: 0.7;
+}
+
+#Introduction {
+  background: url(../img/kirk-spock-lifejim.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #KnowThyself {
