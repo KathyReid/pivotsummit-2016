@@ -1,27 +1,6 @@
-## Working note-takers
 
 
 
-end of life care - end of life jobs - euthanasia planner - this sits at the intersection of aging and health care, but also a growing recognition of the role that mental health and wellbeing plays in a life well lived.
-
-Talk about the intersection of a number of key trends, and what this means for jobs of the future.
-
-## The Gig Economy
-
-Jobs are becoming more contingent
-Shorter term contracts
-Lack of real wages growth
-Many people overqualified for the roles that they are filling
-? Are degrees undervalued
-Rise of short courses or just in time learning
-Example of Javascript fatigue - Javascript frameworks are evolving moe rapidly than ever, hard to keep up - even if you studied Javascript or programming at Uni,
-
-Knowledge has a shorter shelf life
-
-## Skills required in the future
-
-Complex problem solving
-Collaboration
 
 ## Different types of jobs in the future
 
@@ -111,8 +90,94 @@ So, let's examine more closely which industries and occupations are most likely 
 
 ## Fourth industrial revolution
 
+SLIDE: FOURTH INDUSTRIAL REVOLUTION
 
 
+## Skills shortages
+
+WEF shows that there will generally be talent shortages across the board. We cannot wait for the next generation to become skilled - we have to take an active role in training for our digital future.
+
+## Key drivers of change
+
+Putting our mission suits on, and getting our instruments to examine Jobs of the Future, we can already make some observations about how the labour landscape is changing.
+
+### Changing work environments
+
+How many people here work from a co-work space? Quite a few, great! In fact, Knight Frank, a Melbourne real estate company recently reported that over the last year, there's been a 750% increase - that's 7 and a half times - growth in space being used for co-working in Melbourne. This is driven not just by smaller businesses and entrepreneurs, but also by more flexible work policies in corporate environments - telework, remote work and so on - and the underpinning technologies required to work in this way. Co-working also has the benefit of being able to mix and mingle - and be exposed to thoughts, ideas or skills that you wouldn't be able to if you were in a smaller office.
+
+We're also seeing a rise in people working from home - not just instead of working in a corporate office, but also running small businesses from home - and why wouldn't you - you pay rent or a mortgage on a premises, and you're away from it, not occupying it, for the whole work day.
+
+### Rise of Asia and the middle class
+
+At a global level, we're also seeing a rise of Asia, China, India, Indonesia, all with burgeoning middle classes. China has a population of over a billion, India is approaching a billion and Indonesia has a quarter of a billion. Australia has a population of just 25 million. If you're making a product or delivering a cloud service, why would you go after the smaller market? This means that businesses based in Australia are likely to be engaging more with Asia, and of course that's a challenge. How many people here speak an Indian language - Hindi or Urdu or can read Devanagari, or Mandarin or Cantonese or Bahasa? Having an Asian language under your belt is going to give you an edge in an increasingly global world.
+
+So, with our investigative hats on, we can see that both of these trends are going to shape *WHERE* we work and *WHO* we work with.
+
+### Climate change and natural resource scarcity
+
+Of course, climate change is going to impact jobs of the future too.
+
+It's OK, I won't take an hour here debating whether the science is right - let's just presume that 99% of the world's leading scientists and their myriad expertise is actually correct - climate change is going to impact on our working lives. It's going to be hotter, wetter with more extreme weather events. It will be harder to grow produce - which will impact the agricultural sector significantly.
+
+Climate change will also damage infrastructure - fires, floods and extreme heat cause billions of dollars of damage every year - and the money needed to repair that infrastructure means it won't be invested in other areas.
+
+Paradoxically though, that renewal creates additional jobs.
+
+## Schumpeterian Paradox - Creative Destruction
+
+SLIDE - Creative Destruction
+
+And here I want to diverge just briefly into a concept that underpins many of the jobs of the future - the Schumpeterian Paradox of Creative Destruction.
+
+As new technologies and approaches advance and disrupt different sectors, they disrupt established business models, economies - and importantly - roles. So for instance as PABXs revolutionised the switchboard, switchboard operators were no longer required, but PABX technicians were. Of course, a PABX doesn't need as many technicians as the switchboard needed operators, so there's a net loss of jobs - because technical advancement has increased productivity - output - without creating additional jobs.
+
+## Relationship between wages and productivity
+
+SLIDE - Relationship between wages and productivity
+
+And if we look at the relationship between wages and productivity over time, we see this play out at a macro-economic scale. Since the 1970s, wages - and this is true for all OECD economies - wages have been stagnant when compared to output and productivity.
+
+This trend is set to continue as artificial intelligence and automation advance even further.
+
+
+
+
+
+
+-----------------------------------------------------------
+
+## Working note-takers
+
+
+
+end of life care - end of life jobs - euthanasia planner - this sits at the intersection of aging and health care, but also a growing recognition of the role that mental health and wellbeing plays in a life well lived.
+
+Talk about the intersection of a number of key trends, and what this means for jobs of the future.
+
+## The Gig Economy
+
+Jobs are becoming more contingent
+Shorter term contracts
+Lack of real wages growth
+Many people overqualified for the roles that they are filling
+? Are degrees undervalued
+Rise of short courses or just in time learning
+Example of Javascript fatigue - Javascript frameworks are evolving moe rapidly than ever, hard to keep up - even if you studied Javascript or programming at Uni,
+
+Knowledge has a shorter shelf life
+
+## Skills required in the future
+
+Complex problem solving
+Collaboration
+
+
+
+## Too many graduates, people are overqualified for their roles
+
+** how will this bookend with Dineli Mather's talk on graduates: wanted **
+
+Is education and training really the answer?
 
 ## Reference List
 

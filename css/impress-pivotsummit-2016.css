@@ -120,6 +120,18 @@ body {
     min-width: 100%;
 }
 
+
+
+q {
+  font-weight: 200;
+  font-size: 200%;
+  text-align: center;
+  padding: 15% 10% 10% 10%;
+  color: #00F8C2;
+  display: block;
+  line-height: 150%;
+}
+
 q::before {
   content: "\201C";
 }
@@ -129,10 +141,7 @@ q::after {
 }
 
 q::before, q::after {
-  color: #008AEB;
-  font-weight:bolder;
-  font-size: 180%;
-  opacity: 0.4;
+  color: #fff;
 }
 
 /*
@@ -246,15 +255,6 @@ a:focus {
 
 }
 
-.slide q {
-    display: block;
-    font-size: 50px;
-    line-height: 72px;
-}
-
-.slide q strong {
-    white-space: nowrap;
-}
 
 /*
     The last step is an overview.
@@ -412,6 +412,13 @@ a:focus {
   font-style: italic;
 }
 
+.title {
+  text-align: center;
+  font-weight: 600;
+  text-shadow: 2px 2px black;
+  color: white;
+}
+
 .mission {
   font-family: "CutiveMono", monospace;
   font-size: 400%;
@@ -499,15 +506,28 @@ h1 {
   background: url(../img/fourth-industrial-revolution.png) no-repeat center center fixed;
 }
 
-.list-items li {
-  padding-bottom: 0.3%;
-  font-size: 200%;
-  text-align: center;
+#ProductivityWagesGrowth {
+  background: url(../img/productivity-vs-wages-growth.jpg) no-repeat center center fixed;
 }
 
-.list-items ul {
-  list-style: square inside;
+#KnowledgeExpiry {
+  background: url(../img/socrates.jpg) no-repeat center center fixed;
+}
 
+
+.list-items li {
+  padding-bottom: 0.5%;
+  font-size: 130%;
+  text-align: center;
+  color: #00F8C2;
+}
+
+.large {
+  font-size: 140%;
+}
+
+.list-items {
+  list-style: square outside;
 }
 
 
