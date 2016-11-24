@@ -1,13 +1,14 @@
-Levelling up your open-source career
-====================================
+They're jobs, Jim, but not as we know them
+==========================================
 
-This impress.js-based presentation was delivered at [Open Source Developers' Conference 2015](https://2015.osdc.com.au) in Hobart, Tasmania 27-29 October 2015.
+This impress.js-based presentation was delivered at [Pivot Summit 2016](https://pivotsummit.com.au) in Geelong, Victoria on 02 December 2016.
 
-It covers a range of career-related topics such as;
+It covers a range of 'Jobs of the future' topics such as;
 
-* Career planning
-* Tools to self-assess strengths, weaknesses and to develop a learning plan
-* Skill trees for open source developers
+* The intersection of a number of key macro trends
+* How the nature of work is changing
+* How this is impacting the availability of jobs, and job requirements
+* And what you as an audience member can do to respond to these challenges
 
 ## Author
 
