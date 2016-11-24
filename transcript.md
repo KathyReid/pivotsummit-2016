@@ -55,7 +55,7 @@ SLIDE: Introduction
 
 Good afternoon everyone, and thanks *NAME* for that excellent introduction. I know it's pretty late in the afternoon, and many of you have travelled considerable distance to be here, so a huge thank you for coming to the beautiful city of Geelong - my home town - and for sticking around for the afternoon sessions.
 
-I'm Kathy Reid, and I work at the intersection of emerging technologies, open source and technical communities - an incredibly interesting field to work in. I'm basically a professional geek who gets paid to work bringing people and technology closer together - and that's a good thing. 
+I'm Kathy Reid, and I work at the intersection of emerging technologies, open source and technical communities - an incredibly interesting field to work in. I'm basically a professional geek who gets paid to work bringing people and technology closer together - and that's a good thing.
 
 The title of my talk today - "They're jobs, Jim, but not as we know them" - is very deliberately intended. If you think of some of recent job titles emanating from Silicon Valley - like *Cloud Architect* or *Big Data Visionary* or *Clickthrough Analyst*, they seem almost surreal. As we hear daily reports of increasing automation and artificial intelligence, you could be forgiven for thinking that jobs of the future are from another planet, unrecognisable, almost ... alien.
 
@@ -79,7 +79,15 @@ First though, I'm going to jump in the time machine and explore for a moment wha
 
 SLIDE: RATCATCHER
 
-So, being a Rat Catcher was a lucrative role in 1830s Kent - there were plenty of rats, which were carriers of pestilence such as the plague - and while the OH&S standards weren't very high -
+So, being a Rat Catcher was a lucrative role in 1830s Kent - there were plenty of rats, which were carriers of pestilence such as the plague - and while the OH&S standards weren't very high, if you had elite dexterity skills, you could make a pretty penny. This role was like many of that time - piece-meal - you got paid based on the number of rats you caught.
+
+SLIDE: SWITCHBOARD OPERATORS
+
+If Rat Catching wasn't your thing because, say, you were a woman and equal opportunity had't been invented yet (!), then you might tip your hand at being a manual switchboard operator. Again, this required good physical stamina, and precision and accuracy, but on the plus side it paid by the hour.
+
+Obviously, both of these jobs had died out, but through differing mechanisms. Rat catchers for instance died out because better sanitation and public health environments reduced the rodent infestation. Switchboards on the other hand became automated through technology advancement - PABXs.
+
+## Two drivers of jobs growth - population and technical advancement
 
 
 

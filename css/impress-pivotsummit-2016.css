@@ -484,6 +484,17 @@ h1 {
   background-size: cover;
 }
 
+#Switchboard {
+  background: url(../img/bell-system-switchboard.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#DistopiaUtopia {
+  background: url(../img/a-line-of-smileys-vector-clipart.png) no-repeat center center fixed;
+}
+
 .list-items li {
   padding-bottom: 0.3%;
   font-size: 200%;
