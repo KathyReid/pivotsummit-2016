@@ -85,13 +85,33 @@ SLIDE: SWITCHBOARD OPERATORS
 
 If Rat Catching wasn't your thing because, say, you were a woman and equal opportunity had't been invented yet (!), then you might tip your hand at being a manual switchboard operator. Again, this required good physical stamina, and precision and accuracy, but on the plus side it paid by the hour.
 
-Obviously, both of these jobs had died out, but through differing mechanisms. Rat catchers for instance died out because better sanitation and public health environments reduced the rodent infestation. Switchboards on the other hand became automated through technology advancement - PABXs.
+Obviously, both of these jobs had died out, but through differing mechanisms. Rat catchers for instance lost business because better sanitation and public health environments, urbanisation -  reduced the rodent infestation. Switchboards on the other hand became automated through technology advancement - PABXs.
 
 ## Two drivers of jobs growth - population and technical advancement
+
+So, while these two jobs - rat catching and switchboard operating - might have died out decades ago, there are similarities with the forces which are in play. While urbanisation and technical advancement may have ended the career of the rat catcher and switchboard operator, it is these two forces which are likely to drive Australia's jobs growth in the future.
 
 
 
 ## How have the jobs evolved?
+
+## Distopia vs Utopia
+
+SLIDE: Distopia vs Utopia
+
+So, there's really two polarised views about the future of work. On one side we have the utopian view - that automation and the rise of AI will generate limitless new opportunities for employment in a range of exciting fields - nanotechnology, artificial intelligence, genetics, agricultural technology, automated transport and so on. This is tempered by the pessimistic view that advances will cause massive dislocation of employment - by both volume, sector and geography.
+
+The reality of course lies somewhere in between these two extremes, specific to individual industries, regions and occupations.
+
+## Industries and occupations
+
+So, let's examine more closely which industries and occupations are most likely to be affected.
+
+@TODO - something in here around the WEF report on changes in the labour market
+
+## Fourth industrial revolution
+
+
 
 
 ## Reference List
