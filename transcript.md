@@ -1,33 +1,3 @@
-
-
-
-
-## Different types of jobs in the future
-
-Five different kinds of jobs from the Bernard Salt report
-
-* The Care-givers
-* The Technocrats
-* The Specialist Professionals
-* The Doers
-* The Creatives
-
-
-## Rise of AI and automation
-
-Impacting white collar and middle class jobs
-Administration heavily impacted
-
-Are we seeing a return to bespoke and artisanal manufacturing?
-
-*AI-rtisans*
-
-^^^ love this concept - how long is it before AI is able to replicate or even build on original works by humans - we've seen Google's deep dream neural network be trained on various artists and then 'imagine' its own artworks.
-
-### Deep dream
-Google deep dream - example of AI creating 'original artwork'
-
-
 ## Introduction
 
 SLIDE: Introduction
@@ -40,7 +10,7 @@ The title of my talk today - "They're jobs, Jim, but not as we know them" - is v
 
 SLIDE: ALIEN
 
-So, over the next 30 minutes, I'll be leading us on a *mission*. A mission to learn, to explore, understand, and hopefully tame, jobs of the future.
+So, over the next 30 minutes, I'll be leading us on a *mission*. A mission to learn, to explore, understand, and hopefully learn to engage with these alien jobs of the future.
 
 SLIDE: MISSION
 
@@ -50,7 +20,7 @@ We're going to take a look at;
 * Some of the technology trends that are re-shaping jobs
 * And we'll take a look at the skills that will be needed to secure employment in the future.
 
-My intent is that you, as individuals or as businesses, will be able to use the key takeaways today to help think about how you might respond to the changing nature of jobs.
+My intent is that you, as individuals or as businesses, will be able to use the key takeaways today to help think about how *you* might respond to the changing nature of jobs.
 
 ## Back, back in time
 
@@ -64,11 +34,33 @@ SLIDE: SWITCHBOARD OPERATORS
 
 If Rat Catching wasn't your thing because, say, you were a woman and equal opportunity had't been invented yet (!), then you might tip your hand at being a manual switchboard operator. Again, this required good physical stamina, and precision and accuracy, but on the plus side it paid by the hour.
 
-Obviously, both of these jobs had died out, but through differing mechanisms. Rat catchers for instance lost business because better sanitation and public health environments, urbanisation -  reduced the rodent infestation. Switchboards on the other hand became automated through technology advancement - PABXs.
+Obviously, both of these jobs have died out, but through differing mechanisms. Rat catchers for instance lost business because better sanitation and public health environments, urbanisation -  reduced the rodent infestation. Switchboards on the other hand became automated through technology advancement - PABXs.
 
 ## Two drivers of jobs growth - population and technical advancement
 
-So, while these two jobs - rat catching and switchboard operating - might have died out decades ago, there are similarities with the forces which are in play. While urbanisation and technical advancement may have ended the career of the rat catcher and switchboard operator, it is these two forces which are likely to drive Australia's jobs growth in the future.
+SLIDE: Drivers of Australia's economic growth
+
+So, while these two jobs - rat catching and switchboard operating - might have died out decades ago, there are similarities with the forces which are in play today. While urbanisation and technical advancement may have ended the career of the rat catcher and switchboard operator, it is these two forces which are likely to drive Australia's jobs growth in the future.
+
+So, let us continue our mission and explore a little more around what those jobs are going to look like.
+
+## 7 Job Clusters
+
+In their recent report, the Foundation for Young Australians argued for 
+
+
+
+
+
+## Relationship between wages and productivity
+
+SLIDE - Relationship between wages and productivity
+
+And if we look at the relationship between wages and productivity over time, we see this play out at a macro-economic scale. Since the 1970s, wages - and this is true for all OECD economies - wages have been stagnant when compared to output and productivity.
+
+This trend is set to continue as artificial intelligence and automation advance even further.
+
+
 
 
 
@@ -131,13 +123,7 @@ And here I want to diverge just briefly into a concept that underpins many of th
 
 As new technologies and approaches advance and disrupt different sectors, they disrupt established business models, economies - and importantly - roles. So for instance as PABXs revolutionised the switchboard, switchboard operators were no longer required, but PABX technicians were. Of course, a PABX doesn't need as many technicians as the switchboard needed operators, so there's a net loss of jobs - because technical advancement has increased productivity - output - without creating additional jobs.
 
-## Relationship between wages and productivity
 
-SLIDE - Relationship between wages and productivity
-
-And if we look at the relationship between wages and productivity over time, we see this play out at a macro-economic scale. Since the 1970s, wages - and this is true for all OECD economies - wages have been stagnant when compared to output and productivity.
-
-This trend is set to continue as artificial intelligence and automation advance even further.
 
 
 
@@ -178,6 +164,40 @@ Collaboration
 ** how will this bookend with Dineli Mather's talk on graduates: wanted **
 
 Is education and training really the answer?
+
+## Different types of jobs in the future
+
+Five different kinds of jobs from the Bernard Salt report
+
+* The Care-givers
+* The Technocrats
+* The Specialist Professionals
+* The Doers
+* The Creatives
+
+
+## Rise of AI and automation
+
+Impacting white collar and middle class jobs
+Administration heavily impacted
+
+Are we seeing a return to bespoke and artisanal manufacturing?
+
+*AI-rtisans*
+
+^^^ love this concept - how long is it before AI is able to replicate or even build on original works by humans - we've seen Google's deep dream neural network be trained on various artists and then 'imagine' its own artworks.
+
+### Deep dream
+Google deep dream - example of AI creating 'original artwork'
+
+
+
+
+
+
+-------------
+
+
 
 ## Reference List
 
