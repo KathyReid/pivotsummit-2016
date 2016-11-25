@@ -8,11 +8,11 @@ I'm Kathy Reid, and I work at the intersection of emerging technologies, open so
 
 The title of my talk today - "They're jobs, Jim, but not as we know them" - is very deliberately intended. If you think of some of recent job titles emanating from Silicon Valley - like *Cloud Architect* or *Big Data Visionary* or *Clickthrough Analyst*, they seem almost surreal. As we hear daily reports of increasing automation and artificial intelligence, you could be forgiven for thinking that jobs of the future are from another planet, unrecognisable, almost ... alien.
 
-SLIDE: ALIEN
+SLIDE: Alien
 
 So, over the next 30 minutes, I'll be leading us on a *mission*. A mission to learn, to explore, understand, and hopefully learn to engage with these alien jobs of the future.
 
-SLIDE: MISSION
+SLIDE: Mission
 
 We're going to take a look at;
 
@@ -26,11 +26,11 @@ My intent is that you, as individuals or as businesses, will be able to use the 
 
 First though, I'm going to jump in the time machine and explore for a moment what jobs of the past looked like. If we have a look at how jobs have evolved over time, it will give us insight into how they're likely to evolve in the future.
 
-SLIDE: RATCATCHER
+SLIDE: Rat Catcher
 
 So, being a Rat Catcher was a lucrative role in 1830s Kent - there were plenty of rats, which were carriers of pestilence such as the plague - and while the OH&S standards weren't very high, if you had elite dexterity skills, you could make a pretty penny. This role was like many of that time - piece-meal - you got paid based on the number of rats you caught.
 
-SLIDE: SWITCHBOARD OPERATORS
+SLIDE: Switchboard Operators
 
 If Rat Catching wasn't your thing because, say, you were a woman and equal opportunity had't been invented yet (!), then you might tip your hand at being a manual switchboard operator. Again, this required good physical stamina, and precision and accuracy, but on the plus side it paid by the hour.
 
@@ -46,7 +46,61 @@ So, let us continue our mission and explore a little more around what those jobs
 
 ## 7 Job Clusters
 
-In their recent report, the Foundation for Young Australians argued for 
+SLIDE: Job Clusters
+
+In their recent report, the Foundation for Young Australians urged young Australians not to think in terms of specific careers, but around a professional portfolio of skills - job *clusters* that they can use to drive their professional development.
+
+* *Generators* - these are jobs that require a high level of interaction - think about roles in retail, in sales, entertainment and hospitality - our 'people people'.
+
+* *Artisans* - these are the jobs that require manual and dexterity skills - construction, production and maintenance. Builders, plumbers, electricians and tradie type roles are all in this cluster.
+
+* *Carers* - nurses, doctors, personal trainers, and all the roles that provide personal health and well being services.
+
+* *Informers* - our informers are those roles that involve professionals providing information, education or business services - for instance university lecturers, accountants, business advisors and so on.
+
+* *Co-ordinators* - our co-ordinators are our back of house heroes - administrative and service workers who are often behind the scenes.
+
+* *Designers* - these are the jobs that require skills in science, maths, engineering, lots of the STEM roles - engineers, architects, industrial designers and so on.
+
+* *Technologists* - these are my people - the geeks of the world - roles that require skilled understanding of technology and digital systems.
+
+If we apply this thinking to some of the careers that we might be familiar with, we get some exciting possibilities.
+
+For instance, take an architect - part of the Designer cluster. The skills required for architecture - design, understanding of form and function, utility with materials - all of these skills equally apply for instance to industrial design, or indeed user experience design or even customer experience design. So in the future you may simply be a Designer - and work across a range of domains.
+
+Similarly with the Carer cluster - we can see many crossovers between say medicine and nutrition or nursing and psychological health.
+
+## Demand for skills
+
+SLIDE: WEF skills trends
+
+But of course, the market demand for these skills is not equal at all.
+
+When we look at what skills the World Economic Forum predicts will be required in the next 3 years to 2020, some clear trends emerge. Some of the skills that are predicted to be in highest demand are
+
+* cognitive abilities - the ability to harness science, technology, engineering and design skills, identify and act upon new insights - and to *think*
+
+* systems skills - the ability to conceptualise processes and components, how they fit together and interact, and how to make them better
+
+* complex problem solving skills - to solve the *wicked* problems of the future - requiring research, analytical, experimental and entrepreneurial skills.
+
+* content skills - not just business writing, but *engagement* skills - the ability to present convincingly, articulately and with passion - for instance in front of people - or in social media or virtual reality or augmented reality channels.
+
+* social skills - empathy, emotional intelligence, the ability to work productively and harmoniously with other humans - will continue to be an in demand skill - particularly as globalisation and generational shifts in the workplace mean that we'll be working with people of all ages, cultures and backgrounds.
+
+* technical skills - these will remain in high demand, but as automation and artificial intelligence continue to advance, these skills will move from the doing side of technology - more to the conceptual and design side.
+
+* physical skills - the demand for physical skills - dexterity, physical strength and stamina - will continue to decline, other than in industries where physical strength provides a distinct advantage - such as in building and construction.
+
+## Education and training
+
+So, if we take into account the
+
+
+
+
+
+
 
 
 

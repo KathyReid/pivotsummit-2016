@@ -223,7 +223,7 @@ a:focus {
 */
 .impress-enabled .step {
     margin: 0;
-    opacity: 0.05;
+    opacity: 0.02;
 
     -webkit-transition: opacity 1s;
     -moz-transition:    opacity 1s;
@@ -504,7 +504,9 @@ h1 {
   -o-background-size: cover;
   background-size: cover;
 }
-
+#WEFSkillsDemand {
+  background: url(../img/WEF-future-demand.png) no-repeat center center fixed;
+}
 #SevenTypesJobs {
   background: url(../img/7-types-jobs.png) no-repeat center center fixed;
 }
