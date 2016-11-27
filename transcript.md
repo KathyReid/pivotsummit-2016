@@ -93,7 +93,6 @@ If we look at the relationship between wages and productivity over time, we see 
 
 The simple reality is that machines are quicker, cheaper and more productive - at some tasks - than human workers.
 
-
 ### Machine learning
 
 SLIDE: Machine Learning
@@ -136,6 +135,7 @@ But what will some of the other jobs of the future look like?
 
 Let's continue our mission and take a closer look at what those jobs are going to look like.
 
+
 ## 7 Job Clusters
 
 SLIDE: Job Clusters
@@ -144,15 +144,24 @@ In their recent report, the Foundation for Young Australians urged young Austral
 
 ### Generators
 
-These are jobs that require a high level of interaction - think about roles in retail, in sales, entertainment and hospitality - our 'people people'.
+These are job clusters that require a high level of interaction - think about roles in retail, in sales, entertainment and hospitality - our 'people people'.
 
-While some roles in this category such as service roles are likely to be destroyed by automation, there's going to be a higher need for instance for specialised sales staff for advanced technical products and services, who can understand and empathise with the clients' needs and then develop a matching solution.
+While some roles in this category such as service roles are likely to be destroyed by automation, there's going to be a higher need for instance for specialised sales staff for advanced technical products and services, who can understand and empathise with the clients' needs, build rapport, and then develop a matching solution.
+
+In fact, research from multiple areas - the World Economic Forum, KPMG, is showing that social skills and the ability to empathise is one of the key skills required for jobs of the future - and if you're a *Generator* then it's going to be essential.
+
+### Artisans
+
+These are the job clusters that require manual and dexterity skills - construction, production and maintenance. Builders, plumbers, electricians and tradie type roles are all in this cluster.
+
+Australia's population growth is likely to create new jobs in this category, but event traditional construction roles are likely to be challenged by
+
+need for advanced manufacturing skills, 3D printing
+
+AI-rtisans
 
 
 
-* *Artisans* - these are the jobs that require manual and dexterity skills - construction, production and maintenance. Builders, plumbers, electricians and tradie type roles are all in this cluster.
-
-Australia's population growth is likely
 
 * *Carers* - nurses, doctors, personal trainers, and all the roles that provide personal health and well being services.
 

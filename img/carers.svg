@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="197.55556mm"
+   height="197.55556mm"
+   viewBox="0 0 700.00001 700"
+   id="svg7876"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="carers.svg"
+   inkscape:export-filename="/home/kathyreid/Dropbox/PHPworkspace/pivotsummit-2016/img/carers.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs7878">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6217">
+      <path
+         d="m 0,0 595.276,0 0,841.89 L 0,841.89 0,0 Z"
+         id="path6219"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45388798"
+     inkscape:cx="208.37016"
+     inkscape:cy="80.570424"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7881">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.1986419,439.57726)">
+    <g
+       transform="matrix(9.5998903,0,0,9.5998903,-1821.4023,-4114.0282)"
+       id="g8440">
+      <g
+         style="fill:#f7f6f5"
+         transform="matrix(1.25,0,0,-1.25,226.52352,455.67718)"
+         id="g6205">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6207"
+           style="fill:#f7f6f5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 C 16.109,0 29.167,13.059 29.167,29.167 29.167,45.276 16.109,58.334 0,58.334 -16.109,58.334 -29.167,45.276 -29.167,29.167 -29.167,13.059 -16.109,0 0,0" />
+      </g>
+      <g
+         id="g10304">
+        <text
+           style="font-variant:normal;font-weight:800;font-stretch:normal;font-size:6.83737516px;font-family:'Montserrat Extra Bold';-inkscape-font-specification:Montserrat-ExtraBold;writing-mode:lr-tb;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6209"
+           x="206.25102"
+           y="431.8363">
+          <tspan
+             x="206.25102 207.98772 212.02176 216.6917 220.85565 222.35304 227.01613 231.16641 234.20221 238.36617 241.40196 245.05997"
+             y="431.8363"
+             sodipodi:role="line"
+             id="tspan6211">‘The Carers’</tspan>
+        </text>
+        <g
+           id="g6213"
+           transform="matrix(1.25,0,0,-1.25,-24.429726,1209.6493)"
+           style="fill:#333333">
+          <g
+             id="g6215"
+             clip-path="url(#clipPath6217)"
+             style="fill:#333333">
+            <g
+               id="g6221"
+               transform="translate(201.6877,652.6617)"
+               style="fill:#333333">
+              <path
+                 d="m 0,0 c 0,-1.234 -0.968,-2.234 -2.165,-2.234 -1.193,0 -2.163,1 -2.163,2.234 0,1.234 0.97,2.234 2.163,2.234 C -0.968,2.234 0,1.234 0,0"
+                 style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path6223"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               id="g6225"
+               transform="translate(196.3065,642.8426)"
+               style="fill:#333333">
+              <path
+                 d="M 0,0 C 0.038,0.94 0.201,1.956 0.589,2.766 L 0.589,0 5.822,0 C 5.805,1.004 5.788,2.007 5.799,3.011 6.282,2.168 6.474,1.039 6.516,0 L 8.679,0 C 8.561,3.031 7.202,6.285 3.972,6.52 3.433,6.634 2.846,6.627 2.316,6.499 -0.748,6.128 -2.045,2.957 -2.16,0 L 0,0 Z"
+                 style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path6227"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               id="g6229"
+               transform="translate(204.9856,641.8368)"
+               style="fill:#333333">
+              <path
+                 d="m 0,0 c -1.622,-0.081 -3.252,0.018 -4.877,-0.023 -2.23,-0.055 -4.462,-0.117 -6.685,-0.289 -0.526,-0.041 -1.113,-0.434 -1.503,-0.839 -0.415,-0.431 -0.313,-1.068 0.029,-1.581 0.434,-0.654 1.073,-0.832 1.808,-0.783 1.484,0.1 2.971,0.279 4.453,0.249 1.358,-0.027 2.416,-0.841 3.404,-1.757 -1.096,-1.089 -2.419,-1.153 -3.689,-1.354 -3.995,-0.632 -7.388,1.669 -8.202,5.6 -0.19,0.918 -0.513,1.642 -1.466,1.816 -0.379,0.069 -0.696,0.011 -0.969,-0.13 l -0.001,0.002 c 0,0 -1.651,-0.518 -0.533,-3.059 0.387,-1.001 0.761,-2.01 1.295,-2.919 1.531,-2.605 3.884,-4.016 6.791,-4.466 0.154,-0.024 2.857,-0.301 4.768,0.098 3.168,0.662 6.353,1.231 9.541,1.774 1.208,0.205 2.459,0.137 3.69,0.193 l 0,5.468 C 5.327,-0.955 2.823,0.14 0,0"
+                 style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path6231"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
