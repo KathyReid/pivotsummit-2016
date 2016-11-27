@@ -444,6 +444,11 @@ h2 {
   text-align: center;
 }
 
+.bottom30 {
+  position: relative;
+  top: 30%;
+}
+
 .bottom50 {
   position: relative;
   top: 42%;
@@ -530,6 +535,27 @@ h1 {
 
 #FourthIndustrialRevolution {
   background: url(../img/fourth-industrial-revolution.png) no-repeat center center fixed;
+}
+
+#IBMWatson {
+  background: url(../img/watson-logo.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#SelfDriving {
+  background: url(../img/self-driving.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#McDonaldsTouchscreen {
+  background: url(../img/mcdonalds-touchscreen.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #ProductivityWagesGrowth {
