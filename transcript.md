@@ -2,11 +2,9 @@
 
 SLIDE: Introduction
 
-Good afternoon everyone, and thanks *NAME* for that excellent introduction. I know it's pretty late in the afternoon, and many of you have travelled considerable distance to be here, so a huge thank you for coming to the beautiful city of Geelong - my home town - and for sticking around for the afternoon sessions.
+Good afternoon everyone, and thanks *NAME* for that excellent introduction. I know it's pretty late in the afternoon, and many of you have travelled considerable distance to be here, so a huge thank you for coming to the beautiful city of Geelong - my home town - and for sticking around for the afternoon sessions. I'm Kathy Reid, and I work at the intersection of emerging technologies, open source and technical communities. As the Vice President of Linux Australia, I help oversee open source initiatives in Australia, such as WordCamps, DrupalSouth and Linux Conference Australia, and as part of Creative Geelong I help champion the creative and digital industries in Geelong.
 
-I'm Kathy Reid, and I work at the intersection of emerging technologies, open source and technical communities - an incredibly interesting field to work in. I'm basically a professional geek who gets paid to work bringing people and technology closer together - and that's a good thing.
-
-The title of my talk today - "They're jobs, Jim, but not as we know them" - is very deliberately intended. If you think of some of recent job titles emanating from Silicon Valley - like *Cloud Architect* or *Big Data Visionary* or *Clickthrough Analyst*, they seem almost surreal. As we hear daily reports of increasing automation and artificial intelligence, you could be forgiven for thinking that jobs of the future are from another planet, unrecognisable, almost ... alien.
+The title of my talk today - "They're jobs, Jim, but not as we know them" - is very deliberately intended. If you think of some of recent job titles emanating from Silicon Valley - like *Cloud Architect* or *Big Data Visionary* or *Clickthrough Analyst*, they seem almost surreal. As we hear daily reports of increasing automation and artificial intelligence, you could be forgiven for thinking that jobs of the future are from another planet, unrecognisable, an alien species to be studied.
 
 SLIDE: Alien
 
@@ -40,9 +38,44 @@ Obviously, both of these jobs have died out, but through differing mechanisms. R
 
 SLIDE: Drivers of Australia's economic growth
 
-So, while these two jobs - rat catching and switchboard operating - might have died out decades ago, there are similarities with the forces which are in play today. While urbanisation and technical advancement may have ended the career of the rat catcher and switchboard operator, it is these two forces which are likely to drive Australia's jobs growth in the future.
+So, while these two jobs - rat catching and switchboard operating - might have died out decades ago, there are similarities with the forces which are in play today. While urbanisation and technical advancement may have ended the career of the rat catcher and switchboard operator, *in contrast* it is these two forces which are likely to drive Australia's jobs growth in the future.
 
-So, let us continue our mission and explore a little more around what those jobs are going to look like.
+Australia's population is likely to reach *28 million* over the next decade, and there will be an additional *2 million* people in the workforce. That additional population will drive growth in jobs like caring and construction and teaching, because more people will have health and education needs, and they'll need places to live.
+
+## Fourth industrial revolution
+
+While population growth and technical advancement are two trends that will shape future jobs, this is unlikely to be incremental change. We're about to undergo massive paradigm shifts in the labour market,
+
+SLIDE: Fourth industrial revolution
+
+Everyone here will be familiar with the concept of industrial revolution - starting in the 1780s with the mechanisation of factories and mills around the world - and then the second industrial revolution in the late 1800s was driven - literally - by the steam engine and later the petrol engine. The third industrial revolution is one some of you here may have lived through - when advances in integrated circuits gave us modern computers, and hard drives, and the internet, and eventually the cloud.
+
+But we're now on the cusp - and many analysts believe have already started - the *fourth industrial revolution*. This revolution isn't driven by steam, but it *is* driven by machines - smart machines and automation.
+
+So let's continue our mission by putting some of these technologies under the microscope, and examining how they're going to impact on jobs of the future.
+
+### Machine learning
+
+Machine learning is a special type of artificial intelligence that provides computers the ability to learn without needing to have each new piece of learning programmed. Some of the ways in which machine learning is currently being used include;
+
+* 
+
+
+
+Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed. Machine learning focuses on the development of computer programs that can teach themselves to grow and change when exposed to new data.
+
+SLIDE: Tay.ai
+
+
+
+
+
+
+
+But what will some of the other jobs of the future look like?
+
+
+Let's continue our mission and take a closer look at what those jobs are going to look like.
 
 ## 7 Job Clusters
 

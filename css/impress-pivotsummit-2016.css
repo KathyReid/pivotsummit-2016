@@ -130,6 +130,11 @@ q {
   color: #00F8C2;
   display: block;
   line-height: 150%;
+  text-shadow: 2px 2px black;
+}
+
+.white {
+  color: #FFF;
 }
 
 q::before {
@@ -478,7 +483,7 @@ h1 {
 }
 
 #Alien {
-  background: url(../img/alien-metal.jpg) no-repeat center center fixed;
+  background: url(../img/borg-queen.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -497,16 +502,24 @@ h1 {
   -o-background-size: cover;
   background-size: cover;
 }
-
-#Switchboard {
-  background: url(../img/bell-system-switchboard.jpg) no-repeat center center fixed;
+#Janeway {
+  background: url(../img/kathryn-janeway.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
 #WEFSkillsDemand {
   background: url(../img/WEF-future-demand.png) no-repeat center center fixed;
 }
+
+#TayAI {
+  background: url(../img/tayai.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 #SevenTypesJobs {
   background: url(../img/7-types-jobs.png) no-repeat center center fixed;
 }
@@ -537,6 +550,10 @@ h1 {
 
 .large {
   font-size: 140%;
+}
+
+.larger {
+  font-size: 300%;
 }
 
 .list-items {
