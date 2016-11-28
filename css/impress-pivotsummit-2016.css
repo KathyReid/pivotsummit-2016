@@ -567,6 +567,13 @@ h1 {
   background: url(../img/artisans.png) no-repeat center center fixed;
 }
 
+#House {
+  background: url(../img/3D-house.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 #Carers {
   background: url(../img/carers.png) no-repeat center center fixed;
 }

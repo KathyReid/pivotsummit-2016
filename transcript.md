@@ -144,48 +144,98 @@ In their recent report, the Foundation for Young Australians urged young Austral
 
 ### Generators
 
+SLIDE: Generators
+
 These are job clusters that require a high level of interaction - think about roles in retail, in sales, entertainment and hospitality - our 'people people'.
 
 While some roles in this category such as service roles are likely to be destroyed by automation, there's going to be a higher need for instance for specialised sales staff for advanced technical products and services, who can understand and empathise with the clients' needs, build rapport, and then develop a matching solution.
 
-In fact, research from multiple areas - the World Economic Forum, KPMG, is showing that social skills and the ability to empathise is one of the key skills required for jobs of the future - and if you're a *Generator* then it's going to be essential.
+In fact, research from multiple areas - the World Economic Forum, KPMG, is showing that social skills and the ability to *empathise* is one of the key skills required for jobs of the future - and if you're a *Generator* then it's going to be essential.
 
 ### Artisans
 
-These are the job clusters that require manual and dexterity skills - construction, production and maintenance. Builders, plumbers, electricians and tradie type roles are all in this cluster.
+SLIDE: Artisans
 
-Australia's population growth is likely to create new jobs in this category, but event traditional construction roles are likely to be challenged by
+These are the job clusters that require manual and dexterity skills - construction, production and maintenance. Builders, plumbers, electricians and tradie type roles are all in this cluster. The complex problem solving skills and systems thinking skills - the ability to understand what parts do within a whole - are going to be in high demand, according to the World Economic Forum. And Australia's population growth is likely to create new jobs in this cluster, so the future will generally be a favourable time for Artisans.
 
-need for advanced manufacturing skills, 3D printing
+But even traditional construction roles are likely to be challenged by the rise of advanced manufacturing - such as 3D printing and 3D prototyping. In face, we're getting to the point where 3D printers are now at an industrial scale, and are starting to print things as big as houses.
 
-AI-rtisans
+SLIDE: 3D printed house
+
+In the past these sorts of roles have also required good physical strength - but a recent World Economic Forum report shows that the demand for physical capabilities - strength, dexterity and so on, is likely to account for only 4% of demand by 2020. So, if you're physically strong, you're going to need other strengths as well - those problem solving and systems thinking skills.
+
+The Artisans cluster also includes many creative industries roles, such as painters, sculptors, makers, textile artists and so on. Interestingly, the creative industries, according to a recent NESTA report from the UK, are going to have a bit of a buffer against the rise of automation and artificial intelligence. And this is because Creatives are able to see the world differently, and bring unique perspectives to complex problems, using their cognitive skills to generate new insights.
+
+So it's a good time to be a creative!
+
+But even these roles won't be immune to advancing technology.
+
+#### AI-rtisans
+
+SLIDE: AI-rtisans
+
+Has anyone used a Prisma filter on Instagram? Where you can make a photo take on the appearance of an artist - such as Picasso or the style of say Princess Mononoke? Did anyone try Google's Deep Dream - the artificial intelligence that made wacky and sometimes plain weird images?
+
+I've termed the coin *AI-rtisans* to describe these developments - where machine intelligence consumes the works of human artisans, learns from these and is then able to produce works *in the style of* the artisan.
+
+Take this a step further, with recommendation engines, big data and advanced manufacturing, and you could conceivably have an artificial intelligence who doesn't just *recommend* a product for you, but *designs it from scratch in your favourite style*.
+
+### Carers
+
+SLIDE: Carers
+
+This job cluster holds nurses, doctors, personal trainers and all the roles that provide personal health and well being services.
+
+These roles are not going to be affected *as much* by trends such as advanced manufacturing or automation, but it's likely that that they will be challenged by advanced in artificial intelligence, particularly in diagnosis and decision support - for instance using tools like IBM Watson to validate diagnoses.
+
+Indeed, with Australia's ageing population, we're going to need more carers to look after our elderly, but these won't necessarily be highly skilled roles - and this is a trend we've seen across aged care, with facilities staffed with roles that might only require a Cert II or Cert III.
+
+Again, the need for complex problem solving skills and empathy, emotional skills will be paramount in this job cluster. More interestestingly though, *Carers* are going to need more entrepreneurial skills and business thinking skills. For example, dentists in some parts of Australia are struggling to find enough patients to keep their practices viable - so they're going to need entrepreneurial and marketing skills to attract and retain high lifetime value clients.
+
+### Informers
+
+SLIDE: Informers
+
+Our informers are those roles that involve professionals providing information, education or business services - for instance university lecturers, accountants, business advisors and so on.
+
+These roles are going to be under increasing pressure from automation - for example, look at how many home loan calculators and do-it-yourself accountancy packages are on the market - such as Xero and MYOB. Of course, this gives our Informers the opportunity to do higher value work, such as consultancy, and here we see again the need for those key skills - problem solving, entrepreneurial skills, social skills.
+
+### Co-ordinators
+
+SLIDE: Co-ordinators
+
+Our co-ordinators are our back of house heroes - administrative and service workers who are often behind the scenes. Unfortunately, the outlook for these sorts of roles is bleak, as increasing machine intelligence takes on the role of assistant roles.
+
+For example, I can manage my calendar, appointments, travel, email prioritisation, all using my voice, with my Android smartphone - the range of things I can do by talking in to my phone is just going to increase over time.
+
+So, if you're in an administrative or co-ordination function, you might want to transition into another field.
+
+### Designers
+
+SLIDE: Designers
+
+These are the jobs that require skills in science, maths, biology, engineering, lots of the STEM roles - engineers, architects, industrial designers and so on.
+With advances in genetic technology, nanotechnology, and increasing interaction between biology and computing - biohacking and implantable chips, these skills are going to be in significant demand in the future - leveraging highly developed cognitive skills, problem solving skills, systems thinking and so on.
+
+So, you'd think that people would be gravitating towards STEM careers because of the future opportunities, wouldn't you? Paradoxically, no.
+
+SLIDE: STEM statistics
+
+The Office of the Chief Scientist released a report in March of this year, showing that just over a quarter of Australians have a STEM qualification - and the vast majority of these are in engineering, not science, biology, geology, mathematics - where breakthrough in genetics, in agriculture and in climatology are going to come from. There's many reasons for this, such as cutbacks in many government funded scientific departments such as CSIRO and NICTA, but the fact remains that many of Australia's future jobs will be driven by STEM.
+
+### Technologists
+
+SLIDE: Technologists
+
+These are my people - the geeks of the world - roles that require skilled understanding of technology and digital systems. These roles require strong cognitive skills and systems thinking skills, but increasingly, also entrepreneurial skills - being able to link technical pursuits with business outcomes.
+
+Again, artificial intelligence is going to have an impact on technologists - instead of writing code line by line, there will be more 'building blocks' and components ready to assemble to put together new products - meaning that technologists won't need to be as skilled to be productive - and this will have a wages impact. 
 
 
-
-
-* *Carers* - nurses, doctors, personal trainers, and all the roles that provide personal health and well being services.
-
-* *Informers* - our informers are those roles that involve professionals providing information, education or business services - for instance university lecturers, accountants, business advisors and so on.
-
-* *Co-ordinators* - our co-ordinators are our back of house heroes - administrative and service workers who are often behind the scenes.
-
-* *Designers* - these are the jobs that require skills in science, maths, engineering, lots of the STEM roles - engineers, architects, industrial designers and so on.
-
-* *Technologists* - these are my people - the geeks of the world - roles that require skilled understanding of technology and digital systems.
-
-If we apply this thinking to some of the careers that we might be familiar with, we get some exciting possibilities.
-
-For instance, take an architect - part of the Designer cluster. The skills required for architecture - design, understanding of form and function, utility with materials - all of these skills equally apply for instance to industrial design, or indeed user experience design or even customer experience design. So in the future you may simply be a Designer - and work across a range of domains.
-
-Similarly with the Carer cluster - we can see many crossovers between say medicine and nutrition or nursing and psychological health.
 
 ## Demand for skills
 
 SLIDE: WEF skills trends
-
-But of course, the market demand for these skills is not equal at all.
-
-When we look at what skills the World Economic Forum predicts will be required in the next 3 years to 2020, some clear trends emerge. Some of the skills that are predicted to be in highest demand are
 
 * cognitive abilities - the ability to harness science, technology, engineering and design skills, identify and act upon new insights - and to *think*
 
