@@ -82,7 +82,6 @@ SLIDE: Autonomous vehicles
 
 And perhaps the biggest change of all under the automation rubric is the rapid advancement of autonomous vehicles. We're going to see this impact first in logistics - in long-haul truck driving and the auxilliary support industries - petrol stations, motels, diners - that support it. Then, this impact will be felt in the private transportation market - taxis and private cars. Uber for instance has already had a significant impact on the transport market, but what happens when Uber no longer needs human drivers?
 
-
 Does increasing automation create any additional jobs? It will create some - for instance in engineering roles, in maintenance of autonomous vehicles and in areas such as geographical information services - helping the autonomous vehicles map out where they need to go? The World Economic Forum estimates that only between 1 in 2 to 1 in 5 of the jobs that are disrupted will be replaced as a result of automation - and this is a trend that we've seen play out for several decades.
 
 ## Relationship between wages and productivity
@@ -99,7 +98,7 @@ SLIDE: Machine Learning
 
 But it's not just entry level, or service-based jobs that are challenged by new technologies.
 
-*Machine learning* is a special type of artificial intelligence that provides computers the ability to learn without needing to have each new piece of learning programmed.
+*Machine learning* is a special type of artificial intelligence that provides computers the ability to learn without needing to have each new piece of learning programmed into them.
 
 There's some really interesting ways in which machine learning is being used:
 
@@ -121,7 +120,9 @@ So we're now seeing that machine learning is not just assisting people in choice
 
 #### Narrative Science and Quill
 
-In fact, a company called Narrative Science in the United States offers a product called Quill - and this is essentially a machine learning program that replaces sports journalists entirely. The program uses statistics from the game, and data about players' history and past performances to construct a news article, in the same style as a sports writer. This is a further blow to any journalists in the room - who've already suffered serious disruption from smartphones, bloggers and citizen journalists.
+In fact, a company called Narrative Science in the United States offers a product called Quill - and this is essentially a machine learning program that replaces sports journalists entirely - and I can think of at least one case where that would be a very good thing!
+
+The program uses statistics from the game, and data about players' history and past performances to construct a news article, in the same style as a sports writer. This is a further blow to any journalists in the room - who've already suffered serious disruption from smartphones, bloggers and citizen journalists.
 
 #### Tay.ai
 
@@ -148,7 +149,12 @@ SLIDE: Generators
 
 These are job clusters that require a high level of interaction - think about roles in retail, in sales, entertainment and hospitality - our 'people people'.
 
-While some roles in this category such as service roles are likely to be destroyed by automation, there's going to be a higher need for instance for specialised sales staff for advanced technical products and services, who can understand and empathise with the clients' needs, build rapport, and then develop a matching solution.
+While some roles in this category such as service roles are likely to be destroyed by automation - for instance the McDonald's touch screen, there's going to be a higher need for instance for specialised sales staff for advanced technical products and services, who can understand and empathise with the clients' needs, build rapport, and then develop a matching solution.
+
+SLIDE: Virtual reality performer
+
+Some of the new types of roles that might created here include:
+* Virtual reality host
 
 In fact, research from multiple areas - the World Economic Forum, KPMG, is showing that social skills and the ability to *empathise* is one of the key skills required for jobs of the future - and if you're a *Generator* then it's going to be essential.
 
@@ -174,7 +180,7 @@ But even these roles won't be immune to advancing technology.
 
 SLIDE: AI-rtisans
 
-Has anyone used a Prisma filter on Instagram? Where you can make a photo take on the appearance of an artist - such as Picasso or the style of say Princess Mononoke? Did anyone try Google's Deep Dream - the artificial intelligence that made wacky and sometimes plain weird images?
+Has anyone used a Prisma filter on Instagram? Where you can make a photo take on the appearance of an artist - such as Picasso or the style of say Studio Ghibli? Did anyone try Google's Deep Dream - the artificial intelligence that made wacky and sometimes plain weird images?
 
 I've termed the coin *AI-rtisans* to describe these developments - where machine intelligence consumes the works of human artisans, learns from these and is then able to produce works *in the style of* the artisan.
 
@@ -186,11 +192,15 @@ SLIDE: Carers
 
 This job cluster holds nurses, doctors, personal trainers and all the roles that provide personal health and well being services.
 
-These roles are not going to be affected *as much* by trends such as advanced manufacturing or automation, but it's likely that that they will be challenged by advanced in artificial intelligence, particularly in diagnosis and decision support - for instance using tools like IBM Watson to validate diagnoses.
+These roles are not going to be affected *as much* by trends such as advanced manufacturing or automation, but it's likely that that they will be challenged by advances in artificial intelligence, particularly in diagnosis and decision support - for instance using tools like IBM Watson to validate diagnoses.
 
 Indeed, with Australia's ageing population, we're going to need more carers to look after our elderly, but these won't necessarily be highly skilled roles - and this is a trend we've seen across aged care, with facilities staffed with roles that might only require a Cert II or Cert III.
 
-Again, the need for complex problem solving skills and empathy, emotional skills will be paramount in this job cluster. More interestestingly though, *Carers* are going to need more entrepreneurial skills and business thinking skills. For example, dentists in some parts of Australia are struggling to find enough patients to keep their practices viable - so they're going to need entrepreneurial and marketing skills to attract and retain high lifetime value clients.
+SLIDE: End of life care planner
+
+Were going to need people skilled in end of life care planning - and that's a possible new role that we'll see emerge. Again, the need for complex problem solving skills and empathy, emotional skills will be paramount in this job cluster.
+
+More interestestingly though, *Carers* are going to need more entrepreneurial skills and business thinking skills. For example, dentists in some parts of Australia are struggling to find enough patients to keep their practices viable - so they're going to need entrepreneurial and marketing skills to attract and retain high lifetime value clients.
 
 ### Informers
 
@@ -199,6 +209,10 @@ SLIDE: Informers
 Our informers are those roles that involve professionals providing information, education or business services - for instance university lecturers, accountants, business advisors and so on.
 
 These roles are going to be under increasing pressure from automation - for example, look at how many home loan calculators and do-it-yourself accountancy packages are on the market - such as Xero and MYOB. Of course, this gives our Informers the opportunity to do higher value work, such as consultancy, and here we see again the need for those key skills - problem solving, entrepreneurial skills, social skills.
+
+With virtual reality and videoconferencing, we're also likely to see these roles go from a one to one or one to few setting, to a one to many setting - facilitated by things like videoconferencing or webinars - essentially delivering an 'expert on demand' type service.
+
+SLIDE: New role - video lecturers
 
 ### Co-ordinators
 
@@ -215,13 +229,15 @@ So, if you're in an administrative or co-ordination function, you might want to 
 SLIDE: Designers
 
 These are the jobs that require skills in science, maths, biology, engineering, lots of the STEM roles - engineers, architects, industrial designers and so on.
-With advances in genetic technology, nanotechnology, and increasing interaction between biology and computing - biohacking and implantable chips, these skills are going to be in significant demand in the future - leveraging highly developed cognitive skills, problem solving skills, systems thinking and so on.
+With advances in genetic technology, nanotechnology, and increasing interaction between biology and computing - biohacking and implantable chips, these skills are going to be in significant demand in the future - leveraging highly developed cognitive skills, problem solving skills, systems thinking and so on. For instance, as genetic technology becomes more accessible using technologies like CRISPR, we'll be able to tackle diseases such as cancer at the molecular level.
+
+SLIDE: New role - genetic repair specialist
 
 So, you'd think that people would be gravitating towards STEM careers because of the future opportunities, wouldn't you? Paradoxically, no.
 
 SLIDE: STEM statistics
 
-The Office of the Chief Scientist released a report in March of this year, showing that just over a quarter of Australians have a STEM qualification - and the vast majority of these are in engineering, not science, biology, geology, mathematics - where breakthrough in genetics, in agriculture and in climatology are going to come from. There's many reasons for this, such as cutbacks in many government funded scientific departments such as CSIRO and NICTA, but the fact remains that many of Australia's future jobs will be driven by STEM.
+The Office of the Chief Scientist released a report in March of this year, showing that just over a quarter of Australians have a STEM qualification - and the vast majority of these are in engineering, not science, biology, geology, mathematics - where breakthroughs in genetics, in agriculture and in climatology are going to come from. There's many reasons for this, such as cutbacks in many government funded scientific departments such as CSIRO and NICTA, but the fact remains that many of Australia's future jobs will be driven by STEM.
 
 ### Technologists
 
@@ -229,176 +245,51 @@ SLIDE: Technologists
 
 These are my people - the geeks of the world - roles that require skilled understanding of technology and digital systems. These roles require strong cognitive skills and systems thinking skills, but increasingly, also entrepreneurial skills - being able to link technical pursuits with business outcomes.
 
-Again, artificial intelligence is going to have an impact on technologists - instead of writing code line by line, there will be more 'building blocks' and components ready to assemble to put together new products - meaning that technologists won't need to be as skilled to be productive - and this will have a wages impact. 
+Again, artificial intelligence is going to have an impact on technologists - instead of writing code line by line, there will be more 'building blocks' and components ready to assemble to put together new products - meaning that technologists won't need to be as skilled to be productive - and this will have a wages impact.
+
+However if you're a technologist, your job prospects are looking pretty good - the World Economic Forum is predicting an overall increase in job prospects in ICT in Australia of around 3.6% in the next 3 years - one of the strongest growth areas - and organisations such as Slade Group and Australian Computer Society are predicting a significant digital skills shortfall in the same timeframe.
+
+So it's good to be a techie at the moment.
+
+#### Women in technology
+
+SLIDE: Margaret Hamilton, computer scientist who wrote the Apollo moon mission code, and who was recently awarded the US Presidential Medal of Freedom
+
+And that, unfortunately, is putting women at a disadvantage. Why? Because currently, ABS stats show that only 1 in 5 people in tech identifies as female, and numbers are even poorer for other ethnic and gender minorities. And it's not just a *current* issue - it's a *future* issues too. Fewer women are studying ICT at high school and tertiary level - so we have this scenario where there's going to be strong jobs growth in ICT, but few women with the qualifications and skills to take advantage of those opportunities.
+
+This is Margaret Hamilton, a computer scientist who wrote the Apollo moon mission code, and who was recently awarded the US Presidential Medal of Freedom, and a bit of a hero of mine. The world needs more Margaret Hamiltons, and fewer Kim Kardassians. *Ladies, get your code on*
 
 
+### Skills demand recap
 
-## Demand for skills
+SLIDE: WEF future skills demand
 
-SLIDE: WEF skills trends
+So, let's just recap for a moment where the skills demand is going to be over the next few years - and this slide is from the World Economic Forum report. As we saw when we looked at the 7 Job Clusters, the key skills of the future are going to be
 
-* cognitive abilities - the ability to harness science, technology, engineering and design skills, identify and act upon new insights - and to *think*
+* Complex problem solving
+* Social skills - empathy skills
+* Process skills
+* Cognitive skills
+* Systems skills
+* Technical skills
 
-* systems skills - the ability to conceptualise processes and components, how they fit together and interact, and how to make them better
+So what does this all mean? What have we learnt from our expedition, our mission?
 
-* complex problem solving skills - to solve the *wicked* problems of the future - requiring research, analytical, experimental and entrepreneurial skills.
-
-* content skills - not just business writing, but *engagement* skills - the ability to present convincingly, articulately and with passion - for instance in front of people - or in social media or virtual reality or augmented reality channels.
-
-* social skills - empathy, emotional intelligence, the ability to work productively and harmoniously with other humans - will continue to be an in demand skill - particularly as globalisation and generational shifts in the workplace mean that we'll be working with people of all ages, cultures and backgrounds.
-
-* technical skills - these will remain in high demand, but as automation and artificial intelligence continue to advance, these skills will move from the doing side of technology - more to the conceptual and design side.
-
-* physical skills - the demand for physical skills - dexterity, physical strength and stamina - will continue to decline, other than in industries where physical strength provides a distinct advantage - such as in building and construction.
-
-## Education and training
-
-So, if we take into account the
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## How have the jobs evolved?
-
-## Distopia vs Utopia
+### Distopia vs Utopia
 
 SLIDE: Distopia vs Utopia
 
-So, there's really two polarised views about the future of work. On one side we have the utopian view - that automation and the rise of AI will generate limitless new opportunities for employment in a range of exciting fields - nanotechnology, artificial intelligence, genetics, agricultural technology, automated transport and so on. This is tempered by the pessimistic view that advances will cause massive dislocation of employment - by both volume, sector and geography.
+We've learned that there's really two polarised views about the future of work. On one side we have the utopian view - that automation and the rise of AI will generate limitless new opportunities for employment in a range of exciting fields - nanotechnology, artificial intelligence, genetics, agricultural technology, automated transport and so on. This is tempered by the pessimistic view that advances will cause massive dislocation of employment. The reality of course lies somewhere in between these two extremes, specific to individual industries, regions and occupations.
 
-The reality of course lies somewhere in between these two extremes, specific to individual industries, regions and occupations.
+#### How do we respond
 
-## Industries and occupations
+In order to harness that optimistic future, we will need to understand that we won't necessarily have a linear career, but will operate within a job cluster - a cluster that requires us to have new skills - like technical skills, social skills, entrepreneurial skills and new cognitive skills. We will need to recogise that STEM and technology are key growth areas for new employment, and we need to be mindful about attracting more diverse cohors of people to these cutting edge careers.
 
-So, let's examine more closely which industries and occupations are most likely to be affected.
+But above all, in the future, weird is just going to be part of the job!
 
-@TODO - something in here around the WEF report on changes in the labour market
+SLIDE: Weird is part of the job
 
-## Fourth industrial revolution
-
-SLIDE: FOURTH INDUSTRIAL REVOLUTION
-
-
-## Skills shortages
-
-WEF shows that there will generally be talent shortages across the board. We cannot wait for the next generation to become skilled - we have to take an active role in training for our digital future.
-
-## Key drivers of change
-
-Putting our mission suits on, and getting our instruments to examine Jobs of the Future, we can already make some observations about how the labour landscape is changing.
-
-### Changing work environments
-
-How many people here work from a co-work space? Quite a few, great! In fact, Knight Frank, a Melbourne real estate company recently reported that over the last year, there's been a 750% increase - that's 7 and a half times - growth in space being used for co-working in Melbourne. This is driven not just by smaller businesses and entrepreneurs, but also by more flexible work policies in corporate environments - telework, remote work and so on - and the underpinning technologies required to work in this way. Co-working also has the benefit of being able to mix and mingle - and be exposed to thoughts, ideas or skills that you wouldn't be able to if you were in a smaller office.
-
-We're also seeing a rise in people working from home - not just instead of working in a corporate office, but also running small businesses from home - and why wouldn't you - you pay rent or a mortgage on a premises, and you're away from it, not occupying it, for the whole work day.
-
-### Rise of Asia and the middle class
-
-At a global level, we're also seeing a rise of Asia, China, India, Indonesia, all with burgeoning middle classes. China has a population of over a billion, India is approaching a billion and Indonesia has a quarter of a billion. Australia has a population of just 25 million. If you're making a product or delivering a cloud service, why would you go after the smaller market? This means that businesses based in Australia are likely to be engaging more with Asia, and of course that's a challenge. How many people here speak an Indian language - Hindi or Urdu or can read Devanagari, or Mandarin or Cantonese or Bahasa? Having an Asian language under your belt is going to give you an edge in an increasingly global world.
-
-So, with our investigative hats on, we can see that both of these trends are going to shape *WHERE* we work and *WHO* we work with.
-
-### Climate change and natural resource scarcity
-
-Of course, climate change is going to impact jobs of the future too.
-
-It's OK, I won't take an hour here debating whether the science is right - let's just presume that 99% of the world's leading scientists and their myriad expertise is actually correct - climate change is going to impact on our working lives. It's going to be hotter, wetter with more extreme weather events. It will be harder to grow produce - which will impact the agricultural sector significantly.
-
-Climate change will also damage infrastructure - fires, floods and extreme heat cause billions of dollars of damage every year - and the money needed to repair that infrastructure means it won't be invested in other areas.
-
-Paradoxically though, that renewal creates additional jobs.
-
-
-
-
-
-
-
-
-
------------------------------------------------------------
-
-## Working note-takers
-
-
-
-end of life care - end of life jobs - euthanasia planner - this sits at the intersection of aging and health care, but also a growing recognition of the role that mental health and wellbeing plays in a life well lived.
-
-Talk about the intersection of a number of key trends, and what this means for jobs of the future.
-
-## The Gig Economy
-
-Jobs are becoming more contingent
-Shorter term contracts
-Lack of real wages growth
-Many people overqualified for the roles that they are filling
-? Are degrees undervalued
-Rise of short courses or just in time learning
-Example of Javascript fatigue - Javascript frameworks are evolving moe rapidly than ever, hard to keep up - even if you studied Javascript or programming at Uni,
-
-Knowledge has a shorter shelf life
-
-## Skills required in the future
-
-Complex problem solving
-Collaboration
-
-
-
-## Too many graduates, people are overqualified for their roles
-
-** how will this bookend with Dineli Mather's talk on graduates: wanted **
-
-Is education and training really the answer?
-
-## Different types of jobs in the future
-
-Five different kinds of jobs from the Bernard Salt report
-
-* The Care-givers
-* The Technocrats
-* The Specialist Professionals
-* The Doers
-* The Creatives
-
-
-## Rise of AI and automation
-
-Impacting white collar and middle class jobs
-Administration heavily impacted
-
-Are we seeing a return to bespoke and artisanal manufacturing?
-
-*AI-rtisans*
-
-^^^ love this concept - how long is it before AI is able to replicate or even build on original works by humans - we've seen Google's deep dream neural network be trained on various artists and then 'imagine' its own artworks.
-
-### Deep dream
-Google deep dream - example of AI creating 'original artwork'
-
-### What jobs will we need for the future
-
-Machine ethicists
-Facial recognition disruption artist - using the makeup of disruption
-
-
-
-
--------------
-
-
+Thank you very much.
 
 ## Reference List
 
