@@ -16,7 +16,6 @@ SLIDE: Mission
 
 We're going to take a look at;
 
-* Some of the macro-economic factors that are driving shifts in jobs
 * Some of the technology trends that are re-shaping jobs
 * And we'll take a look at the skills that will be needed to secure employment in the future.
 
@@ -28,11 +27,11 @@ First though, I'm going to jump in the time machine and explore for a moment wha
 
 SLIDE: Rat Catcher
 
-So, being a Rat Catcher was a lucrative role in 1830s Kent - there were plenty of rats, which were carriers of pestilence such as the plague - and while the OH&S standards weren't very high, if you had elite dexterity skills, you could make a pretty penny. This role was like many of that time - piece-meal - you got paid based on the number of rats you caught.
+So, being a Rat Catcher was a lucrative role in 1830s Kent - there were plenty of rats, which were carriers of pestilence such as the plague - and while the OH&S standards weren't very high, if you had elite dexterity skills, you could make a pretty penny.
 
 SLIDE: Switchboard Operators
 
-If Rat Catching wasn't your thing because, say, you were a woman and equal opportunity had't been invented yet (!), then you might tip your hand at being a manual switchboard operator. Again, this required good physical stamina, and precision and accuracy, but on the plus side it paid by the hour.
+If Rat Catching wasn't your thing because, say, you were a woman and equal opportunity had't been invented yet (!), then you might tip your hand at being a manual switchboard operator. Again, this required good physical stamina, and precision and accuracy..
 
 Obviously, both of these jobs have died out, but through differing mechanisms. Rat catchers for instance lost business because better sanitation and urbanisation reduced the rodent infestation. Switchboards on the other hand became automated through technology advancement - PABXs.
 
@@ -82,7 +81,7 @@ SLIDE: Autonomous vehicles
 
 And perhaps the biggest change of all under the automation rubric is the rapid advancement of autonomous vehicles. We're going to see this impact first in logistics - in long-haul truck driving and the auxilliary support industries - petrol stations, motels, diners - that support it. Then, this impact will be felt in the private transportation market - taxis and private cars. Uber for instance has already had a significant impact on the transport market, but what happens when Uber no longer needs human drivers?
 
-Does increasing automation create any additional jobs? It will create some - for instance in engineering roles, in maintenance of autonomous vehicles and in areas such as geographical information services - helping the autonomous vehicles map out where they need to go? The World Economic Forum estimates that only between 1 in 2 to 1 in 5 of the jobs that are disrupted will be replaced as a result of automation - and this is a trend that we've seen play out for several decades.
+Does increasing automation create any additional jobs? It will create some - for instance in engineering roles, in maintenance of autonomous vehicles and in areas such as geographical information services - helping the autonomous vehicles map out where they need to go? The World Economic Forum estimates that only between 1 in 2 to 1 in 5 of the jobs that are disrupted will be replaced as a result of automation - and this is a trend that we've seen play out for several decades -it's not something new.
 
 ## Relationship between wages and productivity
 
@@ -128,10 +127,11 @@ The program uses statistics from the game, and data about players' history and p
 
 SLIDE: Tay.ai
 
-Of course, not all machine learning attempts have been successful. In March of this year, Microsoft released a machine learning program called Tay, whose intent was to learn to interact with people on Twitter. Unfortunately, Tay got trolled, and was fed racist interactions, in turn becoming a reflection of her environment. Tay was shut down after tweeting bigoted and racist tweets to her followers.
+Of course, not all machine learning attempts have been successful.
 
-Perhaps Tay could have used a artificial intelligence trainer - a human to guide her learning and steer her development - much like a guidance counsellor would steer an adolescent. So, there's at least one new role that will be created as machine learning disrupts a number of established sectors.
+In March of this year, Microsoft released a machine learning program called Tay, whose intent was to learn to interact with people on Twitter. Unfortunately, Tay got trolled, and was fed racist interactions, in turn becoming a reflection of her environment. Tay was shut down after tweeting bigoted and racist tweets to her followers.
 
+Perhaps Tay could have used a artificial intelligence trainer - a human to guide her learning and steer her development - much like a guidance counsellor would steer an adolescent. So, there's at least one new role that will be created!
 But what will some of the other jobs of the future look like?
 
 Let's continue our mission and take a closer look at what those jobs are going to look like.
@@ -141,7 +141,9 @@ Let's continue our mission and take a closer look at what those jobs are going t
 
 SLIDE: Job Clusters
 
-In their recent report, the Foundation for Young Australians urged young Australians not to think in terms of specific careers, but around a professional portfolio of skills - job *clusters* that they can use to drive their professional development.
+In their recent report, the Foundation for Young Australians urged us not to think in terms of specific careers, but around a professional portfolio of skills - job *clusters* that we can use to drive their professional development.
+
+Let's have a look at them.
 
 ### Generators
 
@@ -162,9 +164,11 @@ In fact, research from multiple areas - the World Economic Forum, KPMG, is showi
 
 SLIDE: Artisans
 
-These are the job clusters that require manual and dexterity skills - construction, production and maintenance. Builders, plumbers, electricians and tradie type roles are all in this cluster. The complex problem solving skills and systems thinking skills - the ability to understand what parts do within a whole - are going to be in high demand, according to the World Economic Forum. And Australia's population growth is likely to create new jobs in this cluster, so the future will generally be a favourable time for Artisans.
+These are the job clusters that require manual and dexterity skills - construction, production and maintenance. Builders, plumbers, electricians and tradie type roles are all in this cluster.
 
-But even traditional construction roles are likely to be challenged by the rise of advanced manufacturing - such as 3D printing and 3D prototyping. In face, we're getting to the point where 3D printers are now at an industrial scale, and are starting to print things as big as houses.
+The complex problem solving skills and systems thinking skills - the ability to understand what parts do within a whole - are going to be in high demand, according to the World Economic Forum. And Australia's population growth is likely to create new jobs in this cluster, so the future will generally be a favourable time for Artisans.
+
+But even traditional construction roles are likely to be challenged by the rise of advanced manufacturing - such as 3D printing and 3D prototyping. In fact, we're getting to the point where 3D printers are now at an industrial scale, and are starting to print things as big as houses.
 
 SLIDE: 3D printed house
 
@@ -208,9 +212,9 @@ SLIDE: Informers
 
 Our informers are those roles that involve professionals providing information, education or business services - for instance university lecturers, accountants, business advisors and so on.
 
-These roles are going to be under increasing pressure from automation - for example, look at how many home loan calculators and do-it-yourself accountancy packages are on the market - such as Xero and MYOB. Of course, this gives our Informers the opportunity to do higher value work, such as consultancy, and here we see again the need for those key skills - problem solving, entrepreneurial skills, social skills.
+These roles are going to be under increasing pressure from automation - for example, look at how many home loan calculators and do-it-yourself accountancy packages are on the market - such as Xero and MYOB.
 
-With virtual reality and videoconferencing, we're also likely to see these roles go from a one to one or one to few setting, to a one to many setting - facilitated by things like videoconferencing or webinars - essentially delivering an 'expert on demand' type service.
+With virtual reality and videoconferencing, we're also likely to see these roles go from a one to one or one to few setting, to a one to many setting - essentially delivering an 'expert on demand' type service.
 
 SLIDE: New role - video lecturers
 
@@ -220,7 +224,7 @@ SLIDE: Co-ordinators
 
 Our co-ordinators are our back of house heroes - administrative and service workers who are often behind the scenes. Unfortunately, the outlook for these sorts of roles is bleak, as increasing machine intelligence takes on the role of assistant roles.
 
-For example, I can manage my calendar, appointments, travel, email prioritisation, all using my voice, with my Android smartphone - the range of things I can do by talking in to my phone is just going to increase over time.
+For example, I can manage my calendar, appointments, travel, email prioritisation, all using my voice, with my Android smartphone - the range of things I can do by talking to my phone is just going to increase over time.
 
 So, if you're in an administrative or co-ordination function, you might want to transition into another field.
 
@@ -229,9 +233,12 @@ So, if you're in an administrative or co-ordination function, you might want to 
 SLIDE: Designers
 
 These are the jobs that require skills in science, maths, biology, engineering, lots of the STEM roles - engineers, architects, industrial designers and so on.
-With advances in genetic technology, nanotechnology, and increasing interaction between biology and computing - biohacking and implantable chips, these skills are going to be in significant demand in the future - leveraging highly developed cognitive skills, problem solving skills, systems thinking and so on. For instance, as genetic technology becomes more accessible using technologies like CRISPR, we'll be able to tackle diseases such as cancer at the molecular level.
+With advances in genetic technology, nanotechnology, and increasing interaction between biology and computing - biohacking and implantable chips, these skills are going to be in significant demand in the future - leveraging highly developed cognitive skills, problem solving skills, systems thinking and so on.
+
 
 SLIDE: New role - genetic repair specialist
+
+For instance, as genetic technology becomes more accessible using technologies like CRISPR, we'll be able to tackle diseases such as cancer at the molecular level.
 
 So, you'd think that people would be gravitating towards STEM careers because of the future opportunities, wouldn't you? Paradoxically, no.
 
@@ -255,7 +262,9 @@ So it's good to be a techie at the moment.
 
 SLIDE: Margaret Hamilton, computer scientist who wrote the Apollo moon mission code, and who was recently awarded the US Presidential Medal of Freedom
 
-And that, unfortunately, is putting women at a disadvantage. Why? Because currently, ABS stats show that only 1 in 5 people in tech identifies as female, and numbers are even poorer for other ethnic and gender minorities. And it's not just a *current* issue - it's a *future* issues too. Fewer women are studying ICT at high school and tertiary level - so we have this scenario where there's going to be strong jobs growth in ICT, but few women with the qualifications and skills to take advantage of those opportunities.
+And that, unfortunately, is putting women at a disadvantage. Why?
+
+Because currently, ABS stats show that only 1 in 5 people in tech identifies as female, and numbers are even poorer for other ethnic and gender minorities. And it's not just a *current* issue - it's a *future* issues too. Fewer women are studying ICT at high school and tertiary level - so we have this scenario where there's going to be strong jobs growth in ICT, but few women with the qualifications and skills to take advantage of those opportunities.
 
 This is Margaret Hamilton, a computer scientist who wrote the Apollo moon mission code, and who was recently awarded the US Presidential Medal of Freedom, and a bit of a hero of mine. The world needs more Margaret Hamiltons, and fewer Kim Kardassians. *Ladies, get your code on*
 
@@ -279,7 +288,7 @@ So what does this all mean? What have we learnt from our expedition, our mission
 
 SLIDE: Distopia vs Utopia
 
-We've learned that there's really two polarised views about the future of work. On one side we have the utopian view - that automation and the rise of AI will generate limitless new opportunities for employment in a range of exciting fields - nanotechnology, artificial intelligence, genetics, agricultural technology, automated transport and so on. This is tempered by the pessimistic view that advances will cause massive dislocation of employment. The reality of course lies somewhere in between these two extremes, specific to individual industries, regions and occupations.
+We've learned that there's really two polarised views about the future of work. On one side we have the utopian view - that automation and the rise of AI will generate limitless new opportunities for employment in a range of exciting fields - nanotechnology, artificial intelligence, genetics, agricultural technology, automated transport and so on. This is tempered by the pessimistic view that advances will cause massive dislocation of employment. The reality of course lies somewhere in between these two extremes.
 
 #### How do we respond
 
@@ -290,6 +299,8 @@ But above all, in the future, weird is just going to be part of the job!
 SLIDE: Weird is part of the job
 
 Thank you very much.
+
+Timing estimation: 25 minutes to this point
 
 ## Reference List
 
